@@ -1,170 +1,138 @@
-
-<br>
-<p align="center">
-  <a href="https://www.twenty.com">
-    <img src="./packages/twenty-docs/static/img/logo-square-dark.svg" width="100px" alt="Twenty logo" />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><br>
+<p align="center" dir="auto">
+  <a href="https://www.twenty.com" rel="nofollow">
+    <img src="/twentyhq/twenty/raw/main/packages/twenty-docs/static/img/logo-square-dark.svg" width="100px" alt="二十标志" style="max-width: 100%;">
   </a>
 </p>
-
-<h2 align="center" >The #1 Open-Source CRM </h3>
-<p align="center">Tailored to your unique business needs</p>
-
-<p align="center"><a href="https://twenty.com">🌐 Website</a> · <a href="https://docs.twenty.com">📚 Documentation</a> ·  <a href="https://discord.gg/cx5n4Jzs57"><img src="./packages/twenty-docs/static/img/discord-icon.svg" width="12" height="12"/> Discord</a> · <a href="https://www.figma.com/file/xt8O9mFeLl46C5InWwoMrN/Twenty"><img src="./packages/twenty-docs/static/img/figma-icon.png"  width="12" height="12"/>  Figma</a><p>
-<br />
-
-
-<p align="center">
-  <a href="https://www.twenty.com">
-    <picture>
+<h2 align="center" tabindex="-1" dir="auto"><a id="user-content-the-1-open-source-crm-" class="anchor" aria-hidden="true" tabindex="-1" href="#the-1-open-source-crm-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#1 开源 CRM</font></font></h2>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据您独特的业务需求量身定制</font></font></p>
+<p align="center" dir="auto"><a href="https://twenty.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌐 网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">· </font></font><a href="https://docs.twenty.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚 文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·   </font></font><a href="https://discord.gg/cx5n4Jzs57" rel="nofollow"><img src="/twentyhq/twenty/raw/main/packages/twenty-docs/static/img/discord-icon.svg" width="12" height="12" style="max-width: 100%;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> · </font></font><a href="https://www.figma.com/file/xt8O9mFeLl46C5InWwoMrN/Twenty" rel="nofollow"><img src="/twentyhq/twenty/raw/main/packages/twenty-docs/static/img/figma-icon.png" width="12" height="12" style="max-width: 100%;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Figma</font></font></a></p><p dir="auto">
+<br>
+</p><p align="center" dir="auto">
+  <a href="https://www.twenty.com" rel="nofollow">
+    <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/preview-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/preview-light.png">
-      <img src="./packages/twenty-docs/static/img/preview-light.png" alt="Companies view" />
-    </picture>
+      <img src="/twentyhq/twenty/raw/main/packages/twenty-docs/static/img/preview-light.png" alt="公司视图" style="visibility:visible;max-width:100%;">
+    </picture></themed-picture>
   </a>
 </p>
 <br>
-
-We’ve spent thousands of hours grappling with traditional CRMs like Pipedrive and Salesforce to align them with our business needs, only to end up frustrated — customizations are complex and the closed ecosystems of these platforms can feel restrictive.
-
-We felt the need for a CRM platform that empowers rather than constrains. We believe the next great CRM will come from the open source community. And we’ve packed Twenty with powerful features to give you full control and help you run your business efficiently. 
-
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们花费了数千个小时来研究 Pipedrive 和 Salesforce 等传统 CRM，以使它们与我们的业务需求保持一致，但最终却感到沮丧——定制非常复杂，而且这些平台的封闭生态系统可能会让人感到受到限制。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们认为需要一个能够增强而非限制的 CRM 平台。</font><font style="vertical-align: inherit;">我们相信下一个伟大的 CRM 将来自开源社区。</font><font style="vertical-align: inherit;">我们为 Twenty 提供了强大的功能，让您能够完全控制并帮助您高效地运营业务。</font></font></p>
 <br>
-
-# Demo 
-Go to <a href="https://app.twenty.com/">app.twenty.com</a> and login with the following credentials:
-```
-email: noah@demo.dev
+<h1 tabindex="-1" dir="auto"><a id="user-content-demo" class="anchor" aria-hidden="true" tabindex="-1" href="#demo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">转到</font></font><a href="https://app.twenty.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">app.twenty.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并使用以下凭据登录：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>email: noah@demo.dev
 password: Applecar2025
-```
-
-See also:  
-🚀 [Self-hosting](https://docs.twenty.com/start/self-hosting/)  
-🖥️ [Local Setup](https://docs.twenty.com/start/local-setup)  
-
-# Why Choose Twenty?
-We understand that the CRM landscape is vast. So why should you choose us?
-
-⛓️ **Full control, Full Freedom:** Contribute, self-host, fork. Break free from vendor lock-in and join us in shaping the open future of CRM.
-
-📊 **Data, Your Way:** The days when the role of CRM platforms was to shift manual data entries to a database are over. Now, the data is already there. CRM 2.0 should be built around your data, allowing you to access and visualize any existing sources, not forcing you to retrofit your data into predefined objects on a remote cloud.
-
-🎨 **Effortlessly Intuitive:** We set out to create something that we ourselves would always enjoy using. The main application draws inspiration from Notion, a tool known for its user-friendly interface and customization capabilities.
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="email: noah@demo.dev
+password: Applecar2025" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">另请参阅：</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+🚀</font></font><a href="https://docs.twenty.com/start/self-hosting/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自托管</font></font></a><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+🖥️</font></font><a href="https://docs.twenty.com/start/local-setup" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本地设置</font></font></a></p>
+<h1 tabindex="-1" dir="auto"><a id="user-content-why-choose-twenty" class="anchor" aria-hidden="true" tabindex="-1" href="#why-choose-twenty"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为什么选择二十？</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们知道 CRM 领域广阔。</font><font style="vertical-align: inherit;">那么您为什么要选择我们呢？</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⛓️</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完全控制，完全自由：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献、自托管、分叉。</font><font style="vertical-align: inherit;">摆脱供应商锁定，与我们一起塑造 CRM 的开放未来。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📊</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据，您的方式：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> CRM 平台的作用是将手动数据输入转移到数据库的时代已经结束。</font><font style="vertical-align: inherit;">现在，数据已经存在了。</font><font style="vertical-align: inherit;">CRM 2.0 应围绕您的数据构建，允许您访问和可视化任何现有源，而不是强迫您将数据改造为远程云上的预定义对象。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎨</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">轻松直观：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们着手创造一些我们自己总是喜欢使用的东西。</font><font style="vertical-align: inherit;">主要应用程序从 Notion 中汲取灵感，Notion 是一种以其用户友好的界面和定制功能而闻名的工具。
+</font></font><br></p>
 <br>
-
-
-<br>
-
-# What You Can Do With Twenty
-We're currently in the development phase of Twenty's alpha version.  
-
-Please feel free to flag any specific need you have need by creating an issue.   
-
-Below are some features we have implemented to date:
-
-+ [Add, filter, sort, edit and track customers](#add-filter-sort-edit-and-track-customers)
-+ [Create one or several opportunities for each company](#create-one-or-several-opportunities-for-each-company)
-+ [See rich notes tasks displayed in a timeline](#see-rich-notes-tasks-displayed-in-a-timeline)
-+ [Create tasks on records](#create-tasks-on-records)
-+ [Navigate quickly through the app using keyboard shortcuts and search](#navigate-quickly-through-the-app-using-keyboard-shortcuts-and-search)
-
-## Add, filter, sort, edit and track customers:
-
-<p align="center">
-    <picture>
+<h1 tabindex="-1" dir="auto"><a id="user-content-what-you-can-do-with-twenty" class="anchor" aria-hidden="true" tabindex="-1" href="#what-you-can-do-with-twenty"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">二十岁可以做什么</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们目前正处于 Twenty alpha 版本的开发阶段。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请随时通过创建问题来标记您的任何具体需求。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下是我们迄今为止已实现的一些功能：</font></font></p>
+<ul dir="auto">
+<li><a href="#add-filter-sort-edit-and-track-customers"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">添加、过滤、排序、编辑和跟踪客户</font></font></a></li>
+<li><a href="#create-one-or-several-opportunities-for-each-company"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为每家公司创造一个或多个机会</font></font></a></li>
+<li><a href="#see-rich-notes-tasks-displayed-in-a-timeline"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看时间线中显示的丰富笔记任务</font></font></a></li>
+<li><a href="#create-tasks-on-records"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在记录上创建任务</font></font></a></li>
+<li><a href="#navigate-quickly-through-the-app-using-keyboard-shortcuts-and-search"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用键盘快捷键和搜索快速浏览应用程序</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-add-filter-sort-edit-and-track-customers" class="anchor" aria-hidden="true" tabindex="-1" href="#add-filter-sort-edit-and-track-customers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">添加、过滤、排序、编辑和跟踪客户：</font></font></h2>
+<p align="center" dir="auto">
+    <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/index-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/index-light.png">
-      <img src="./packages/twenty-docs/static/img/visualise-customer-light.png" alt="Companies view" />
-    </picture>
+      <img src="/twentyhq/twenty/raw/main/packages/twenty-docs/static/img/visualise-customer-light.png" alt="公司视图" style="visibility:visible;max-width:100%;">
+    </picture></themed-picture>
 </p>
-
-## Create one or several opportunities for each company:
-
-<p align="center">
-    <picture>
+<h2 tabindex="-1" dir="auto"><a id="user-content-create-one-or-several-opportunities-for-each-company" class="anchor" aria-hidden="true" tabindex="-1" href="#create-one-or-several-opportunities-for-each-company"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为每家公司创造一个或多个机会：</font></font></h2>
+<p align="center" dir="auto">
+    <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/kanban-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/kanban-light.png">
-      <img src="./packages/twenty-docs/static/img/follow-your-deals-light.png" alt="Companies view" />
-    </picture>
+      <img src="/twentyhq/twenty/raw/main/packages/twenty-docs/static/img/follow-your-deals-light.png" alt="公司视图" style="visibility:visible;max-width:100%;">
+    </picture></themed-picture>
 </p>
-
-## Track deals effortlessly with the email integration:
-
-<p align="center">
-    <picture>
+<h2 tabindex="-1" dir="auto"><a id="user-content-track-deals-effortlessly-with-the-email-integration" class="anchor" aria-hidden="true" tabindex="-1" href="#track-deals-effortlessly-with-the-email-integration"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过电子邮件集成轻松跟踪交易：</font></font></h2>
+<p align="center" dir="auto">
+    <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/emails-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/emails-light.png">
-      <img src="./packages/twenty-docs/static/img/rich-notes-light.png" alt="Companies view" />
-    </picture>
+      <img src="/twentyhq/twenty/raw/main/packages/twenty-docs/static/img/rich-notes-light.png" alt="公司视图" style="visibility:visible;max-width:100%;">
+    </picture></themed-picture>
 </p>
-
-## Tailor your data model to meet business needs:
-
-<p align="center">
-    <picture>
+<h2 tabindex="-1" dir="auto"><a id="user-content-tailor-your-data-model-to-meet-business-needs" class="anchor" aria-hidden="true" tabindex="-1" href="#tailor-your-data-model-to-meet-business-needs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">定制您的数据模型以满足业务需求：</font></font></h2>
+<p align="center" dir="auto">
+    <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/data-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/data-light.png">
-      <img src="./packages/twenty-docs/static/img/rich-notes-light.png" alt="Companies view" />
-    </picture>
+      <img src="/twentyhq/twenty/raw/main/packages/twenty-docs/static/img/rich-notes-light.png" alt="公司视图" style="visibility:visible;max-width:100%;">
+    </picture></themed-picture>
 </p>
-
-## See rich notes displayed in a timeline:
-
-<p align="center">
-    <picture>
+<h2 tabindex="-1" dir="auto"><a id="user-content-see-rich-notes-displayed-in-a-timeline" class="anchor" aria-hidden="true" tabindex="-1" href="#see-rich-notes-displayed-in-a-timeline"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看时间轴中显示的丰富注释：</font></font></h2>
+<p align="center" dir="auto">
+    <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/notes-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/notes-light.png">
-      <img src="./packages/twenty-docs/static/img/rich-notes-light.png" alt="Companies view" />
-    </picture>
+      <img src="/twentyhq/twenty/raw/main/packages/twenty-docs/static/img/rich-notes-light.png" alt="公司视图" style="visibility:visible;max-width:100%;">
+    </picture></themed-picture>
 </p>
-
-## Create tasks on records
-
-<p align="center">
-    <picture>
+<h2 tabindex="-1" dir="auto"><a id="user-content-create-tasks-on-records" class="anchor" aria-hidden="true" tabindex="-1" href="#create-tasks-on-records"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在记录上创建任务</font></font></h2>
+<p align="center" dir="auto">
+    <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/tasks-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/tasks-light.png">
-      <img src="./packages/twenty-docs/static/img/create-tasks-light.png" alt="Companies view" />
-    </picture>
+      <img src="/twentyhq/twenty/raw/main/packages/twenty-docs/static/img/create-tasks-light.png" alt="公司视图" style="visibility:visible;max-width:100%;">
+    </picture></themed-picture>
 </p>
-
-## Navigate quickly through the app using keyboard shortcuts and search:
-
-<p align="center">
-    <picture>
+<h2 tabindex="-1" dir="auto"><a id="user-content-navigate-quickly-through-the-app-using-keyboard-shortcuts-and-search" class="anchor" aria-hidden="true" tabindex="-1" href="#navigate-quickly-through-the-app-using-keyboard-shortcuts-and-search"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用键盘快捷键和搜索快速浏览应用程序：</font></font></h2>
+<p align="center" dir="auto">
+    <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/keyboard-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/keyboard-light.png">
-      <img src="./packages/twenty-docs/static/img/shortcut-navigation-light.png" alt="Companies view" />
-    </picture>
+      <img src="/twentyhq/twenty/raw/main/packages/twenty-docs/static/img/shortcut-navigation-light.png" alt="公司视图" style="visibility:visible;max-width:100%;">
+    </picture></themed-picture>
 </p>
-
-## Connect your CRM to all your tools through our APIs and Webhooks.
-
-<p align="center">
-    <picture>
+<h2 tabindex="-1" dir="auto"><a id="user-content-connect-your-crm-to-all-your-tools-through-our-apis-and-webhooks" class="anchor" aria-hidden="true" tabindex="-1" href="#connect-your-crm-to-all-your-tools-through-our-apis-and-webhooks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过我们的 API 和 Webhook 将您的 CRM 连接到您的所有工具。</font></font></h2>
+<p align="center" dir="auto">
+    <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/api-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/api-light.png">
-      <img src="./packages/twenty-docs/static/img/shortcut-navigation-light.png" alt="Companies view" />
-    </picture>
+      <img src="/twentyhq/twenty/raw/main/packages/twenty-docs/static/img/shortcut-navigation-light.png" alt="公司视图" style="visibility:visible;max-width:100%;">
+    </picture></themed-picture>
 </p>
-
 <br>
-
-# What's In Store
-
-Here’s what you can look forward to:
-
-⏳ **Frequent updates:** We’re shipping fast! Expect regular updates and new features that enhance your experience.
-
-🔗 **Extensibility:** We’re putting the power in your hands. Soon, you’ll have the tools to extend and customize Twenty with plugins and more.
-
+<h1 tabindex="-1" dir="auto"><a id="user-content-whats-in-store" class="anchor" aria-hidden="true" tabindex="-1" href="#whats-in-store"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">店里有什么</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下是您可以期待的：</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⏳</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">频繁更新：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们发货速度很快！</font><font style="vertical-align: inherit;">期待定期更新和新功能来增强您的体验。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔗</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可扩展性：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们将权力交给您。</font><font style="vertical-align: inherit;">很快，您将拥有使用插件等扩展和自定义 Twenty 的工具。</font></font></p>
 <br>
-
-# Join the Community
-
-- Star the repo
-- Join [discussions](https://github.com/twentyhq/twenty/discussions) and track [issues](https://github.com/twentyhq/twenty/issues) 
-- Follow us on [Twitter](https://twitter.com/twentycrm) or [LinkedIn](https://www.linkedin.com/company/twenty/) 
-- Join our [Discord](https://discord.gg/cx5n4Jzs57)
-- [Contributions](https://github.com/twentyhq/twenty/contribute) are, of course, most welcome! 
-
-
+<h1 tabindex="-1" dir="auto"><a id="user-content-join-the-community" class="anchor" aria-hidden="true" tabindex="-1" href="#join-the-community"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入社区</font></font></h1>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">给仓库加注星标</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入</font></font><a href="https://github.com/twentyhq/twenty/discussions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讨论</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并跟踪</font></font><a href="https://github.com/twentyhq/twenty/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题</font></font></a></li>
+<li><font style="vertical-align: inherit;"></font><a href="https://twitter.com/twentycrm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在Twitter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font><a href="https://www.linkedin.com/company/twenty/" rel="nofollow"><font style="vertical-align: inherit;">LinkedIn</font></a><font style="vertical-align: inherit;">上关注我们</font></font><a href="https://www.linkedin.com/company/twenty/" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入我们的</font></font><a href="https://discord.gg/cx5n4Jzs57" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不和谐</font></font></a></li>
+<li><a href="https://github.com/twentyhq/twenty/contribute"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">当然，我们非常欢迎您的</font><a href="https://github.com/twentyhq/twenty/contribute"><font style="vertical-align: inherit;">贡献！</font></a></font></li>
+</ul>
+</article></div>
